@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and artificial intelligence
 - 🌱 I’m currently learning flutter and graphql
 - 💞️ I’m looking to collaborate on any project involving web, mobile and AI application development
-- 📫 How to reach me? email, Twetter
+- 📫 How to reach me? email, Twitter
 
 <!---
 gachuigachui/gachuigachui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
